@@ -1,0 +1,58 @@
+body {
+    /* background-image: -webkit-linear-gradient(right, white, rgb(255, 211, 211)); */
+    background-image: url("https://img.myloview.com/canvas-prints/clouds-watercolor-tint-pink-clouds-gradient-background-sky-atmosphere-air-freedom-400-230920540.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.box {
+    width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+}
+
+.temp {
+    background-color: rgb(255, 255, 255);
+    font-size: 1.12em;
+    font-weight: 500;
+    width: 310px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.jumbotron {
+    margin-top: 100px;
+}
+
+#weather {
+    font-size: 1.6em;
+    color: brown;
+    font-weight: 700;
+}
+
+#weather2 {
+    font-size: 1.6em;
+    color: rgb(72, 0, 12);
+    font-weight: 700;
+}
+
+.label1 {
+    font-size: 1.08em;
+    color: brown;
+    font-weight: 700;
+}
+
+.btn-brown {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-color: beige;
+    border-style: dashed;
+}
+
+.instruct {
+    font-size: 0.9em;
+    color: balck;
+    font-weight: 500;
+    font-family: sans-serif;
+}
